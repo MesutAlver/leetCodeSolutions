@@ -5,11 +5,8 @@ import UIKit
     
 class Solution {
      
-    // fonksiyonda oluşturulan n parametresine 
+    
     func fizzBuzz(_ n: Int) -> [String] {
-       
-        
-
         
         var fizzBuzzArray = [String]()
         if n < 0 {
